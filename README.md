@@ -1,2 +1,2 @@
 # Student Database Application
-A Student Database applicatiion task for creating a student entrollment information
+A Student Database applicatiion task for taken student entrollment information
